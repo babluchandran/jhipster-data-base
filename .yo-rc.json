@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterDataBase",
+    "packageName": "com.techm.app",
+    "packageFolder": "com/techm/app",
+    "serverPort": 8888,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.2",
+    "jwtSecretKey": "OTVkMDgxN2U0Zjk3NGY3ZmExMzcyNDEwNWE2ZWJmN2RjMzkzNDQ0MDUyNDk0YjNjNGI0NTUxZmMwYjlkMTI5OGE0N2UwYjE3ZWNjYWNlNjg0MzM0YjgxOTE3Mzg3MTEwMGRjNTBiNTU5NGE5ZGM2MTQ3MDNmMzYzMWFmYTNkZDk=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "babluchandran",
+  "repository-name": "jhipster-data-base"
+}
